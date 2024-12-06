@@ -54,6 +54,6 @@ Total Cost
 
 The user can easily view current inventory, add new products, or adjust stock levels for better inventory management.
 
-##Documentation(My Project Code)
-(http://localhost:8889/notebooks/Inventory%20Management%20System/InventoryManagementSystem.ipynb?)
+#Documentation
+[My Project Code ](http://localhost:8889/notebooks/Inventory%20Management%20System/InventoryManagementSystem.ipynb?)
 
