@@ -1,10 +1,10 @@
-<hr>Inventory Management System with Purchases, Sales, and Bill Generation</hr>
 
-Overview
+# Inventory Management System with Purchases, Sales, and Bill Generation
 
+# Overview
 This project is an Inventory Management System designed to keep track of products, their purchases, and sales records. It allows businesses or store owners to efficiently manage their inventory, update stock levels, track customer purchases, and generate detailed bills for customers.
 
-The system supports:
+## The system supports:
 
 Managing Products: Add, view, and update product details (like product ID, name, price, quantity).
 
@@ -14,7 +14,7 @@ Sales: Track sales transactions and reduce stock based on customer purchases.
 
 Bill Generation: Automatically generate an itemized bill for customers, including product names, quantities, prices, and total amount.
 
-Features
+# Features
 
 Inventory Tracking: Keep a real-time record of stock levels for all products.
 
@@ -26,14 +26,19 @@ Customer Bill Generation: Automatically generate a receipt for customers detaili
 
 Search and Filter: Search for products by their ID or name and filter sales by date or customer.
 
-How it Works
-Opening the Inventory File: The system loads product details from an inventory file (such as inventory.txt). Each product in the inventory has an associated product ID, name, price, and stock quantity.
+# How it Works
 
-Purchasing Products: The store owner can update inventory levels by recording product purchases. This adds products to the store's stock and increases the available quantity.
+Opening the Inventory File:
+The system loads product details from an inventory file (such as inventory.txt). Each product in the inventory has an associated product ID, name, price, and stock quantity.
 
-Recording Sales: When a customer makes a purchase, the system updates the inventory by decreasing the quantity of sold items. It also generates an itemized bill showing the details of the purchase.
+Purchasing Products:
+The store owner can update inventory levels by recording product purchases. This adds products to the store's stock and increases the available quantity.
 
-Bill Generation: After a sale, the system generates a receipt containing:
+Recording Sales:
+When a customer makes a purchase, the system updates the inventory by decreasing the quantity of sold items. It also generates an itemized bill showing the details of the purchase.
+
+Bill Generation:
+After a sale, the system generates a receipt containing:
 
 Product Name
 
@@ -45,5 +50,6 @@ Price
 
 Total Cost
 
-Managing and Updating Inventory:
+# Managing and Updating Inventory:
+
 The user can easily view current inventory, add new products, or adjust stock levels for better inventory management.
