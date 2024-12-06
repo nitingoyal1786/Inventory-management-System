@@ -1,8 +1,11 @@
 Inventory Management System with Purchases, Sales, and Bill Generation
+
 Overview
+
 This project is an Inventory Management System designed to keep track of products, their purchases, and sales records. It allows businesses or store owners to efficiently manage their inventory, update stock levels, track customer purchases, and generate detailed bills for customers.
 
 The system supports:
+
 Managing Products: Add, view, and update product details (like product ID, name, price, quantity).
 
 Purchases: Record product purchases, updating stock levels accordingly.
@@ -12,6 +15,7 @@ Sales: Track sales transactions and reduce stock based on customer purchases.
 Bill Generation: Automatically generate an itemized bill for customers, including product names, quantities, prices, and total amount.
 
 Features
+
 Inventory Tracking: Keep a real-time record of stock levels for all products.
 
 Purchase Management: Add purchased items and update stock quantities.
