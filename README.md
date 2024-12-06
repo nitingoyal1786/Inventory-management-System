@@ -6,7 +6,7 @@ This project is an Inventory Management System designed to keep track of product
 
 ## The system supports:
 
-<span style="color: #333;">Managing Products</span>: Add, view, and update product details (like product ID, name, price, quantity).
+**Managing Products**: Add, view, and update product details (like product ID, name, price, quantity).
 
 Purchases: Record product purchases, updating stock levels accordingly.
 
