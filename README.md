@@ -56,5 +56,5 @@ The user can easily view current inventory, add new products, or adjust stock le
 
 # Documentation
 
-[My Project Code ](http://localhost:8889/notebooks/Inventory%20Management%20System/InventoryManagementSystem.ipynb?)
+[My Project Code ](http://localhost:8889/tree/Inventory%20Management%20System)
 
