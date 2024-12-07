@@ -1,7 +1,0 @@
-Nitin Goyal,9914497495,nitin@gmail.com,5 Star,1,50,250,
-Shivam,6464646,shivam@gmail.com,5 Star,2,50,250,
-Aman,363666,aman@gmail.com,5 Star,3,50,250,
-ansh,46466,ans@gmail.com,5 Star,3,50,250,
-naman,666366664,naman@gmail.com,5 Star,4,50,250,
-ram,353525525,ram@gmail.com,5 Star,1,30,150,
-manav,66663666,manav@gmail.com,5 Star,3,50,250,
