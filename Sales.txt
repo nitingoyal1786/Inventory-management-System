@@ -1,0 +1,7 @@
+Nitin Goyal,5355622,abc@gmail.com,5 Star,1,2,10,Sat Dec  7 22:31:25 2024
+shivam,5353563636,shivam@gmail.com,Milky Bar,2,3,15,Sat Dec  7 22:33:45 2024
+Ram,5555858586868,ram@gmail.com,5 Star,1,0,0,Sat Dec  7 22:46:42 2024
+om,553363563,om@gmail.com,Candy,4,100,100,Sat Dec  7 22:51:04 2024
+shubh,525525252,shbh@gmail.com,Cake,3,100,30000,Sat Dec  7 22:54:10 2024
+rum,53535353563,rum@gmail.com,Milky Bar,2,100,500,Sat Dec  7 22:56:03 2024
+kaka,235252562,kak@gmail.com,Milky Bar,2,100,500,Sat Dec  7 22:57:50 2024
