@@ -53,7 +53,6 @@ Total Cost
 
 The user can easily view current inventory, add new products, or adjust stock levels for better inventory management.
 
-# Documentation
 
 
 
