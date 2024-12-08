@@ -1,4 +1,3 @@
-
 # Inventory Management System with Purchases, Sales, and Bill Generation
 
 # Overview
